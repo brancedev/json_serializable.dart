@@ -29,5 +29,5 @@ dev_dependencies:
   logging: ^1.0.1
   pub_semver: ^2.0.0
   source_gen_test: ^0.1.0
-  test: ^1.6.0
+  test: any
   yaml: '>=2.0.0 <=3.0.0'
